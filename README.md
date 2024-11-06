@@ -1,0 +1,1 @@
+# HEC-Recognized-universities-Details
