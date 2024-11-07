@@ -1,4 +1,5 @@
 # HEC-Recognized-universities-Details
+
 # Pakistan Universities Data Analysis with Power BI 📊
 
 This repository hosts an extensive **Power BI** data analysis project on **higher education institutions in Pakistan**. The data is categorized by **province**, **campus locations**, **cities**, and **fields of study** to provide insights into Pakistan’s academic landscape from 2020 to 2024. This analysis helps stakeholders make data-driven decisions to improve educational accessibility and resource allocation across the country.
